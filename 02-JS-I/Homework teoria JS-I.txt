@@ -1,12 +1,20 @@
-Variable: es la manera que tienen los programadores de asignarle nombre a un valor (mediante el cual luego se puede acceder a dicho valor) para poder reusarlo posteriormente o como su nombre lo indica, modificarlo. 
-Para crear una variable en JavaScript se utilizan las palabras claves o keywords: Var, Let y Const (con Var y Let luego podemos modificar el valor, con Const no); seguidas de un espacio y el nombre de la variable. Ademas de declarar una variable, podemos asignarle un valor usando el signo =. Se recomienda siempre terminar con ;.
+Variable: es la manera que tienen los programadores de asignarle nombre a un valor (mediante el cual luego se puede acceder a dicho valor) para poder reusarlo posteriormente o modificarlo. 
+Para crear una variable en JavaScript se utilizan las palabras claves o keywords: Var, Let y Const (con Var y Let luego podemos modificar el valor, con Const no); seguidas de un espacio y el nombre de la variable. 
+Además de declarar una variable, podemos asignarle un valor usando el signo =. Se recomienda siempre terminar con punto y coma.
 
-Instrumentos de cuerda o string: es un tipo de dato que se caracterizan por ser una secuencia de caracteres y se utiliza para almacenar datos que se pueden representar en forma de texto.
-Se definiran entre comillas, ya sea simples o dobles. concluyendo en que cualquier texto entre comillas es una cadena o string. 
+Instrumento de cuerda o string: es un tipo de dato que se caracteriza por ser una secuencia de caracteres.
+Se utiliza para almacenar datos que se pueden representar en forma de texto.
+Se define entre comillas, ya sea simples o dobles. concluyendo que cualquier elemento entre comillas es una cadena o string. 
 
-Funciones (argumentos, returns): una funcion es un conjunto de instrucciones que se agrupan para realizar una tarea concreta y que se pueden reutilizar facilmente. se utiliza cuando una serie de instrucciones se repite una y otra vez. Se caracterizan por recibir una entrada y devolver una salida (return). 
-Una funcion comenzara con la palabra clave o keyword function, seguida de un espacio y el nombre de la funcion. Luego viene un parentesis abierto y otro cerrado. Y finalmente, una llave abierta y otra cerrada. Dentro del parentesis incluiremos los argumentos (variables) de la funcion y entre las llaves el codigo.   
+Funciones (argumentos, returns): una función es un conjunto de instrucciones que se agrupan para realizar una tarea concreta y que se pueden reutilizar fácilmente. 
+Se utiliza cuando una serie de instrucciones se repite una y otra vez. Se caracterizan por recibir una entrada y devolver una salida (return). 
+Una función comienza con la palabra clave o keyword function, seguida de un espacio y el nombre de la función; luego un paréntesis abierto y otro cerrado. Y finalmente, una llave abierta y otra cerrada. 
+Dentro del paréntesis incluimos los argumentos (variables) de la función y entre las llaves el código.   
 
-Declaraciones if: es una estructura de control de flujo y comparacion utilizada para tomar decisiones. Es un doncicional (if) que sirve para relizar unas u otras operaciones en funcion de una expresion, es decir, es una forma de que nuestra funcion verifique si algo es true, ejecutando el codigo si es asi o avanzando si no lo es. 
+Declaraciones if: es una estructura de control de flujo y comparación utilizada para tomar decisiones. 
+Es un condicional (if) que sirve para realizar unas u otras operaciones en función de una expresión, 
+es decir, es una forma de que nuestra función verifique si algo es true, ejecutando el codigo si es asi o avanzando si no lo es. 
  
-Valores booleanos (true, false): son un tipo de variable que se utilizan para almacenar informacion en 2 tipos de estado: TRUE y FALSE. Estas dos palabras son palabras claves por lo que no podremos usarlas como nombres de variables. Estas variables se emplean normalmente para evaluar si se cumplen condiciones mediante instrucciones if else. 
+Valores booleanos (true, false): son un tipo de variable que se utilizan para almacenar información en 2 tipos de estado: TRUE y FALSE. 
+Estas dos palabras son palabras claves por lo que no podremos usarlas como nombres de variables. 
+Estas variables se emplean normalmente para evaluar si se cumplen condiciones mediante instrucciones if else. 

@@ -1,7 +1,13 @@
-For: es un tipo de expresion en bucle, es decir, evalua expresiones una y otra vez hasta que devulve lo que estamos buscando o se detiene despues de cierto tiempo.
-Se confoma con la palabra clave o keyword for, seguida de parentesis y luego abrir y cerrar llaves. Dentro de los parentesis se determinaran 3 cosas: 1° se declara una variable (sobre lo que se repetira el bucle), 2° se establece una expresion condicional (la cual seguira sucediendo hasta que la declaracion sea false) y 3° incrementaremos nuestra variable; las 3 declaraciones iran separadas por punto y coma.
+For: es un tipo de expresión en bucle, es decir, evalua expresiones una y otra vez hasta que devulve lo que estamos buscando o se detiene después de cierto tiempo.
+Se confoma con la palabra clave o keyword for, seguida de paréntesis y luego abrir y cerrar llaves. 
+Dentro de los paréntesis se determinan 3 cosas: 1° se declara una variable (sobre lo que se repetira el bucle), 
+2° se establece una expresión condicional (la cuál seguira sucediendo hasta que la declaracion sea false) y;
+3° incrementaremos nuestra variable.
+Las 3 declaraciones vam separadas por punto y coma.
 
-Operadores logicos 
- 1)&&: es el operador Y (And) el cual evaluara ambas expresiones y devolvera verdadero si ambas expresiones son true. Si una o ambas de ellas es falso, este operador devolvera false.
- 2)||: es el operador O (or) el cual evaluara si una de las expresiones es true. Devolvera true si una o ambas expresiones son true y devolvera false si ambas expresiones son falsas.
- 3)!: es es operador logico NOT (no) el cual evaluara la operacion y devolvera el valor booleano opuesto de lo que se le pase.
+Operadores lógicos 
+ 1)&&: es el operador Y (And) el cual evalua ambas expresiones y devuelve true si ambas expresiones son verdaderas. 
+ Si una o ambas de ellas es falso, este operador devuelve false.
+ 2)||: es el operador O (or) el cual evalua si una de las expresiones es verdadera. 
+ Devuelve true si una o ambas expresiones son verdaderas y devuelve false si ambas expresiones son falsas.
+ 3)!: es el operador lógico NOT (no) el cual evalua la operación y devuelve el valor booleano opuesto de lo que se le pase.
