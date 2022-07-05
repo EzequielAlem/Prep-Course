@@ -1,0 +1,10 @@
+Arreglo (Array): es una lista de elementos, la cuál puede contener strings, números y booleanos.
+Podemos contruirlo declarando una variable con su nombre y establecer la lista entre corchetes (brackets).
+Dentro de los corchetes agregamos la cantidad de elementos (strings, números y booleanos) que querramos separados por comas.
+Podremos acceder a cada elemento en particular invocándolo por su posición. 
+Todos reciben una posición numérica de acuerdo a su ubicación en la lista, en orden, comenzando siempre por 0.
+Existen métodos para incorporar y eliminar elementos de la lista, como:
+NombreDeLaVariable.push: para agregar un elemento al final de la lista.
+NombreDeLaVariable.pop: te devuelve y elimina el último elemento de la lista.
+NombreDeLaVariable.unshift: para agregar un elemento al final de la lista.
+NombreDeLaVariable.shift: te devuelve y elimina el primer elemento de la lista.
