@@ -1,4 +1,4 @@
-Arreglo (Array): es una lista de elementos, la cuál puede contener strings, números y booleanos.
+Arreglo (Array): es una lista de elementos, la cuál puede contener strings, números y booleanos. 
 Podemos contruirlo declarando una variable con su nombre y establecer la lista entre corchetes (brackets).
 Dentro de los corchetes agregamos la cantidad de elementos (strings, números y booleanos) que querramos separados por comas.
 Podremos acceder a cada elemento en particular invocándolo por su posición. 
