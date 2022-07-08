@@ -1,0 +1,16 @@
+Objetos Y propiedades: Un objeto es una colección de propiedades, y una propiedad es una asociación entre un nombre (o clave) y un valor.
+El nombre (o clave) por medio del cuál luego se va a poder acceder al valor "KEY:VALUE o CLAVE:VALOR".
+A diferencia de los arrays, los objetos se incian con llaves ({}). 
+Dentro de ellas se incluyen los pares clave:valor separados por una coma (,).
+Las claves son únicas en un objeto, solo puede haber una clave de ese nombre, aunque, varias claves pueden tener el mismo valor.
+Los valores pueden ser cualquier tipo de dato: string, número, booleano, matriz, función (conocida como método) o incluso otro objeto.
+
+Métodos: se denominan a las funciones que se guardan en un objeto. 
+
+Búble for...in: este búcle nos permite iterar sobre cada par clave-valor en nuestro objeto.
+Comieza con for, luego entre parentesis declaramos una variable, la palabra in y por último, el nombre del objeto.
+Esto recorrerá cada clave del objeto y finalizará cuando se hayan iterado todas las claves.
+
+Notación de puntos vs notación de corchetes: son dos formas que nos permiten poder acceder a los valores.
+1) Notación de corchetes o bracket notation: se puede acceder a los valores por medio del nombre del objeto y entre corchetes ([]) la clave entre comillas ("").
+2) Notación de puntos o dot notation: se puede acceder a los valores por medio del nombre del objeto, un punto y la clave.
