@@ -1,0 +1,10 @@
+Prototype: Los prototipos son un mecanismo mediante el cual los objetos en JavaScript heredan características entre sí.
+Un objeto prototipo del objeto puede tener a su vez otro objeto prototipo, el cual hereda métodos y propiedades, y así sucesivamente. 
+Esto es conocido con frecuencia como la "cadena de prototipos", 
+y explica por qué objetos diferentes pueden tener propiedades disponibles y métodos definidos en otros objetos.
+
+Constructores (de clase): Un constructor es una función que se ejecuta cada vez que se instancia un objeto de una clase. 
+Los constructores de una clase son métodos cuyo nombre coincide con el nombre de la clase, y se caracterizan por no tener tipo de retorno. 
+Puede existir más de un constructor para una clase.
+Están conformados con la palabra function, luego el nombre de la clase con la primera letra en mayúscula;
+entre paréntesis los argumentos y por último entre llaves las propiedades con la key this adelante de cada propiedad.
