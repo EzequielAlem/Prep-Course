@@ -1,0 +1,12 @@
+body{
+    border: solid 1px black;
+    width: 80%;
+    margin: 0 auto;
+    padding: 5px;
+    background-image: url(fondo.jpg);    
+}
+img{
+   margin: 5px;
+   border: solid 4px black;
+}
+
